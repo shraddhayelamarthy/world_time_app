@@ -1,1 +1,5 @@
-This Flutter code serves as the foundation for an elegantly designed mobile application, meticulously crafted to afford users the capability to seamlessly explore the current time across various international locations. The app, adorned with a refined user interface, features a curated list of pre-defined countries, allowing users to effortlessly access and view the precise time in each selected destination with a single tap.
+## WorldtimeApp
+Certainly! The provided Flutter code forms the basis of a mobile app designed for users to easily check the current time in different countries. The app has a straightforward and polished look, presenting a list of countries that users can choose from. With just a tap, users can view the current time in their selected destination.
+## Implementation
+. Make sure to download android studio and flutter 
+. "After downloading, unzip the file that contains Dart files within the Flutter framework. Open these files using the appropriate Integrated Development Environment (IDE)."
